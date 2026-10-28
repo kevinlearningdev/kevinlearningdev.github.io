@@ -3,4 +3,4 @@ layout: home
 title: Home
 ---
 
-Coming soon.
+I'm learning to build AI apps and writing it down as I go, wrong turns included.
